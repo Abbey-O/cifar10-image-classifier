@@ -71,6 +71,26 @@ The transfer learning model slightly outperformed the baseline CNN.
 
 ---
 
+## Application Demo
+
+### Streamlit Interface
+
+![Streamlit](screenshots/Streamlite...png)
+
+### Prediction Example
+
+![Prediction](screenshots/Prediction...png)
+
+## Performance Comparison
+
+![Comparison](screenshots/accuracy_f1_comparison.png)
+
+## Confusion Matrix
+
+![Confusion Matrix](screenshots/confusion...transfer.png)
+
+---
+
 ## Features
 
 - CNN training pipeline
